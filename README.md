@@ -1,4 +1,4 @@
-# Plato Userforms Exxtensions
+# Plato Userforms Extensions
 Custom Extensions of the UserForm module specifically for Plato. That don't quite work as a PR.
 
 #### Current Extensions
