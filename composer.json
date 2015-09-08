@@ -1,6 +1,7 @@
 {
   "name": "plato-creative/plato-userforms-extensions",
   "description": "Custom Extensions of the UserForm module specifically for Plato",
+  "type": "silverstripe-module",
   "homepage": "https://github.com/PlatoCreative/plato-userforms-extensions",
   "keywords": ["plato"],
   "authors": [
