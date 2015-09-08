@@ -1,0 +1,23 @@
+{
+  "name": "plato-creative/plato-userforms-extensions",
+  "description": "Custom Extensions of the UserForm module specifically for Plato",
+  "homepage": "https://github.com/PlatoCreative/plato-userforms-extensions",
+  "keywords": ["plato"],
+  "authors": [
+    {
+      "name": "Plato Creative",
+      "email": "web@platocreative.co.nz"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/PlatoCreative/plato-userforms-extensions/issues"
+  },
+  "require": {
+    "silverstripe/framework": "3.1.*",
+    "silverstripe/cms": "3.1.*",
+    "silverstripe/userforms": "dev-master"
+  },
+  "extra": {
+    "installer-name": "plato-userforms"
+  }
+}
