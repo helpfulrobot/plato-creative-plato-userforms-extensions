@@ -22,7 +22,7 @@ class UserDefinedFormExtension extends DataExtension
      */
     public function updateCMSFields(FieldList $fields)
     {
-        if($this->owner->EmailRecipients()->Count() == 0 && $this->owner->config()->recipients_warning) {
+        if ($this->owner->EmailRecipients()->Count() == 0 && $this->owner->config()->recipients_warning) {
             $fields->addFieldToTab("Root.Main",
                 new LiteralField(
                     "EmailRecipientsWarning",
